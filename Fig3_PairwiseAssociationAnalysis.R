@@ -9,7 +9,6 @@ require(ggthemes)
 require(ggridges)
 require(reshape2)
 
-
 theme_set(theme_grey())
 
 g_legend<-function(a.gplot){
